@@ -1,0 +1,6 @@
+SQL CONSTRAINTS
+
+There are three main constraints to discuss today. 
+1. Primary Keys: Primary Keys must be unique and cannot be NULL.
+2. Foreign Keys: If a there is a foreign key, it must be located in the main table.
+3. Checks and Check Ins: These constraints are used to insure that value inside a table exists and is valid.
